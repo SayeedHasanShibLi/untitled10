@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:untitled10/Fex.dart';
+import 'package:untitled10/GridWithItemlist.dart';
 import 'package:untitled10/land.dart';
 import 'package:untitled10/loding.dart';
 
@@ -27,7 +29,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Pixel()
+      home: Run()
     );
   }
 }
